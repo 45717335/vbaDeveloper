@@ -28,3 +28,11 @@ This repository does not contain the addin itself which is an excel addin in bin
  - Close it, then open it again and let the Build module import the other modules.
 
 Read the detailed instructions in *src/vbaDeveloper.xlam/Build.bas*.
+
+Run Directly in PASSWORD.7z
+-----------------------
+Ofcouse you can create from src, but download and run directly vbaDeveloper.xlam is more efficient:
+
+ - no need for debug, and add references.
+ - the Password  for .7z is: PASSWORD
+ 

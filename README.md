@@ -36,3 +36,12 @@ Ofcouse you can create from src, but download and run directly vbaDeveloper.xlam
  - no need for debug, and add references.
  - the Password  for .7z is: PASSWORD
  
+将FORMAT函数移植到Access VBA中
+-----------------------------
+- 将模块 Formatter.bas 导出,并在 access vba 中导入 这个模块
+- 注意勾选几个 库.
+ Microsoft Scripting Runtime
+ Microsoft Visual Basic for Applications Extenslib 5.3
+ 
+ 
+
